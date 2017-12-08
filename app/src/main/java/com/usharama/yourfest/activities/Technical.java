@@ -68,11 +68,14 @@ public class Technical extends AppCompatActivity {
                             "                                                <div id=\"acse\" class=\"panel-collapse collapse in\">\n" +
                             "                                                    <div class=\"panel-body\">\n" +
                             "                                                        <p>Cloud Computing</p>\n" +
-                            "                                                        <p>Big Data</p>\n" +
+                            "                                                        <p>Cyber Security</p>\n" +
                             "                                                        <p>Internet Of Things (IoT)</p>\n" +
-                            "                                                        <p>Social Networking and Security</p>\n" +
+                            "                                                        <p>Machine Learning</p>\n" +
                             "                                                        <p>Artificial Intelligence</p>\n" +
-                            "                                                        <p>Mobile Computing</p>\n" +
+                            "                                                        <p>Robotics</p>\n" +
+                            "                                                        <p>Distributed Computing</p>\n" +
+                            "                                                        <p>Cognitive Computing</p>\n" +
+                            "                                                        <p>Cluster Computing</p>\n" +
                             "                                                        <p>\n" +
                             "                                                            <strong>Send to : <a href=\"mailto:yourfest.cse@usharama.in\">yourfest.cse@usharama.in </a></strong></p>\n" +
                             "                                                        <p>\n" +
@@ -88,9 +91,9 @@ public class Technical extends AppCompatActivity {
                             "                                                </div>\n" +
                             "                                                <div id=\"aece\" class=\"panel-collapse collapse  \">\n" +
                             "                                                    <div class=\"panel-body\">\n" +
-                            "                                                        <p> Wireless Communications and Sensor Networks</p>\n" +
-                            "                                                        <p> Digital Image Processing</p>\n" +
-                            "                                                        <p> Digital Signal Processing</p>\n" +
+                            "                                                        <p> Wireless Communication</p>\n" +
+                            "                                                        <p> Mobile Networking</p>\n" +
+                            "                                                        <p> Image Processing</p>\n" +
                             "                                                        <p> Embedded Systems</p>\n" +
                             "                                                        <p> Vlsi Technology</p>\n" +
                             "                                                        <p> Nano Technology</p>\n" +
