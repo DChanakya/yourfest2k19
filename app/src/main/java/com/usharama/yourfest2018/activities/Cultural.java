@@ -1,9 +1,7 @@
-package com.usharama.yourfest.activities;
+package com.usharama.yourfest2018.activities;
 
 import android.content.Intent;
 import android.support.design.widget.TabLayout;
-import android.support.design.widget.FloatingActionButton;
-import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 
@@ -23,8 +21,8 @@ import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.usharama.yourfest.R;
-import com.usharama.yourfest.models.Event;
+import com.usharama.yourfest2018.R;
+import com.usharama.yourfest2018.models.Event;
 
 import java.util.ArrayList;
 
@@ -184,6 +182,34 @@ public class Cultural extends AppCompatActivity {
                         "\n" +
                         "                                        <p>Contact No: 7842444676(Kesava), 8142938115(Harish)</p>\n",
                 R.drawable.communicator
+        ));
+        events.add(new Event(
+                " Mystery Busters  ",
+                "  <p>\n" +
+                        "\t\t\tThe night is dark and full of terrors, so is the&nbsp; case. Solve the case, perform the tasks and find the Murderer.</p>\n" +
+                        "\t\t<p>\n" +
+                        "\t\t\t<span style=\"font-size:20px;\"><u><strong>Rules</strong></u></span></p>\n" +
+                        "\t\t<p>\n" +
+                        "\t\t\t1.&nbsp; Each team shall comprise of 4 participants only.</p>\n" +
+                        "\t\t<p>\n" +
+                        "\t\t\t2. Participants will have to solve cases with the help of clues and tasks</p>\n" +
+                        "\t\t<p>\n" +
+                        "\t\t\t3. No Team shall try to communicate with any other team or take any help form the volunteers.</p>\n" +
+                        "\t\t<p>\n" +
+                        "\t\t\t4. The event will be held within the college premises only.</p>\n" +
+                        "\t\t<p>\n" +
+                        "\t\t\t5. The decisions of Organizing committee will be final and binding.</p>\n" +
+                        "\t\t<p>\n" +
+                        "\t\t\t6. The management shall not be held responsible for any kind of injury caused in the course of the event.</p>\n" +
+                        "\t\t<p>\n" +
+                        "\t\t\t7. Use of expletives or aggressive behaviour will result i immediate disqualification.</p>\n" +
+                        "\t\t<p>\n" +
+                        "\t\t\t8. The participants are strictly advised not to disclose the name of their College/Institution to theJury members/audience.</p>\n" +
+                        "\t\t<p>\n" +
+                        "\t\t\t9. The Organizing committee reserves the right to change the venue, time and rules, if desired&nbsp;</p>\n" +
+                        "\t\t\n" +
+                        "                   ",
+                R.drawable.mysterybuster
         ));
 
         setContentView(R.layout.activity_cultural);

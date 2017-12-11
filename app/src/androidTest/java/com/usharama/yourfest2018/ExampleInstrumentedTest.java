@@ -1,4 +1,4 @@
-package com.usharama.yourfest;
+package com.usharama.yourfest2018;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

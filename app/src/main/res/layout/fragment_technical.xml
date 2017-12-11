@@ -6,8 +6,9 @@
     android:orientation="vertical"
     android:padding="10dp"
     android:fillViewport="false"
-    tools:context="com.usharama.yourfest.activities.Technical$PlaceholderFragment">
-    >
+    android:background="@drawable/bg"
+    tools:context="com.usharama.yourfest2018.activities.Technical$PlaceholderFragment">
+
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -18,19 +19,24 @@
             android:layout_width="wrap_content"
             android:layout_height="200dp"
             android:scaleType="centerCrop"
-            android:src="@drawable/best_singer_female" />
+            android:src="@drawable/best_singer_female"
+            android:layout_marginBottom="20dp"/>
 
         <Button
             android:id="@+id/button"
+            style="@style/Widget.AppCompat.Button.Colored"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Register" />
+            android:background="@android:color/holo_orange_dark"
+            android:text="Register"
+            android:layout_marginBottom="20dp"/>
 
         <TextView
             android:id="@+id/section_label"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="sladks"
+            android:layout_marginBottom="10dp"
             android:textAppearance="?android:attr/textAppearanceLarge" />
 
         <TextView

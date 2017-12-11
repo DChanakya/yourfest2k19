@@ -1,10 +1,7 @@
-package com.usharama.yourfest.activities;
+package com.usharama.yourfest2018.activities;
 
 import android.content.Intent;
-import android.provider.ContactsContract;
 import android.support.design.widget.TabLayout;
-import android.support.design.widget.FloatingActionButton;
-import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 
@@ -24,8 +21,8 @@ import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.usharama.yourfest.R;
-import com.usharama.yourfest.models.Event;
+import com.usharama.yourfest2018.R;
+import com.usharama.yourfest2018.models.Event;
 
 import java.util.ArrayList;
 
@@ -537,7 +534,7 @@ public class Technical extends AppCompatActivity {
                             "                                        <b> Rules:</b><br>\n" +
                             "                                        Should be presented at the time of event <br><br>\n\n\n\n\n\n",
                     R.drawable.technohunt));
-            events.add(new Event("Swimming in C",
+            events.add(new Event("Code Wars",
                     " <b class=\"text-danger\">Event Co-ordinator: Mr SM Roychoudri, CSE, Ph:9849645441 </b><br>\n" +
                             "                                        <b>Round 1</b>:<br>\n" +
                             "                                        [screening test]<br>In this round, 20 bits will be given to each participant and the time limit is 25minutes.<br>The questions consists of:<br>Basics of C language<br>Simple logic evaluation bits.\n" +

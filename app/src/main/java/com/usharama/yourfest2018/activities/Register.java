@@ -1,15 +1,12 @@
-package com.usharama.yourfest.activities;
+package com.usharama.yourfest2018.activities;
 
 import android.os.Bundle;
-import android.support.design.widget.FloatingActionButton;
-import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
-import android.view.View;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
 
-import com.usharama.yourfest.R;
+import com.usharama.yourfest2018.R;
 
 public class Register extends AppCompatActivity {
 
@@ -20,7 +17,7 @@ public class Register extends AppCompatActivity {
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
         WebView browser = (WebView) findViewById(R.id.webview);
-        browser.loadUrl("https://docs.google.com/forms/d/e/1FAIpQLSfDUPhBWmHb2ojzvkoehMZgAcMWyvEO5AzXkufDEoQQJd7xwA/viewform");
+        browser.loadUrl("https://goo.gl/forms/1zHGVPc2lLTDAhCu1");
         WebSettings webSettings = browser.getSettings();
         webSettings.setJavaScriptEnabled(true);
 

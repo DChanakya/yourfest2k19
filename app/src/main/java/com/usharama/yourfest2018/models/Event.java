@@ -1,4 +1,4 @@
-package com.usharama.yourfest.models;
+package com.usharama.yourfest2018.models;
 
 /**
  * Created by KRISHNA PRANATI on 20-Dec-16.
