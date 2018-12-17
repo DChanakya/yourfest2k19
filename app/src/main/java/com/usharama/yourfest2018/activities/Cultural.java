@@ -99,7 +99,7 @@ public class Cultural extends AppCompatActivity {
                         "                                        <b class=\"text-danger\">Event Co-ordinator:Ms K.Nitya, ECE,  Ph:98885571089 </b><br>\n" +
                         "                                        <br><br><b> Rules:</b><br>\n" +
                         "                                        Will be intimated at the time of event.",
-                R.drawable.telugu_ammayi
+                R.drawable.telugu
         ));
         events.add(new Event(" Mr.Perfect",
                 "    <b class=\"text-danger\">Event Co-ordinator: Dr S M Roy Chowdry, CSE,  Ph:9849645441 </b><br>\n" +
@@ -114,22 +114,15 @@ public class Cultural extends AppCompatActivity {
                 R.drawable.rangoli_contest
         ));
         events.add(new Event(
-                " Literary Competitions",
+                " Talkathon",
                 " <b class=\"text-danger\">Event Co-ordinator:Ms M Revathi Devi , English,  Ph:8106146054 </b><br>\n" +
-                        "                                        <p style=\"margin-left: 0.75in;\">\n" +
-                        "                                            (a)&nbsp;&nbsp;&nbsp; Extempore</p>\n" +
-                        "                                        <p style=\"margin-left: 0.75in;\">\n" +
-                        "                                            (b)&nbsp;&nbsp; Vista:  (a) Your perspective, (b) Best rapport\n" +
-                        "</p>\n" +
-                        "                                        <p style=\"margin-left: 0.75in;\">\n" +
-                        "                                            (c)&nbsp;&nbsp;&nbsp; Leading Edge: Creative writing</p>\n" +
-                        "                                        <b> Rules:</b><br>\n" +
+                        "                     <b> Rules:</b><br>\n" +
                         "                                        Should be presented on the day of event",
-                R.drawable.literary_competition
+                R.drawable.talkathon
         ));
         events.add(new Event(
                 "Telugu Velugu",
-                " <b class=\"text-danger\">Event Co-ordinator: Mr K Tambi Babu  , English,  Ph:8520871002 </b><br>\n" +
+                " <b class=\"text-danger\">Event Co-ordinator: Dr P.Ramesh Babu  , English,  Ph:7396181081 </b><br>\n" +
                         "                                        <p style=\"margin-left: 0.75in;\">\n" +
                         "                                            (a)&nbsp;&nbsp;&nbsp; Padaghuri</p>\n" +
                         "                                        <p style=\"margin-left: 0.75in;\">\n" +
@@ -137,7 +130,17 @@ public class Cultural extends AppCompatActivity {
                         "                                        <p style=\"margin-left: 0.75in;\">\n" +
                         "                                            (c)&nbsp;&nbsp;&nbsp; Vyasa Rachana</p>\n" +
                         "                                        <b> Rules:</b><br>\n" +
-                        "                                        Should be presented on the day of event",
+                        "                                        Should be presented on the day of event +\n" +
+                        "                                    \"\\t\\t<p>\\n</p>\" +\n" +
+                        "                                    \"\\t\\t<p>\\n</p>\" +\n" +
+                        "                                    \"\\t\\t<p>\\n</p>\" +\n" +
+                        "                                    \"\\t\\t<p>\\n</p>\" +\n" +
+                        "                                    \"\t\t\n" +
+                        "\n" +
+                        "\n" +
+                        "\n" +
+                        "\n" +
+                        " ",
                 R.drawable.telugu_velugu
         ));
 
@@ -153,7 +156,17 @@ public class Cultural extends AppCompatActivity {
                         "                                        <p>No editing of photos</p> \n" +
                         "                                        <p>Photos can be Miniature, LandScapes, portraits etc.</p> \n" +
                         "                                        <p>Time limit is 1 hour</p> \n" +
-                        "                                        <p>Photo/Selfie should be taken with in the college boundaries</p> \n",
+                        "                                        <p>Photo/Selfie should be taken with in the college boundaries</p> \n +\n" +
+                        "                                    \"\\t\\t<p>\\n</p>\" +\n" +
+                        "                                    \"\\t\\t<p>\\n</p>\" +\n" +
+                        "                                    \"\\t\\t<p>\\n</p>\" +\n" +
+                        "                                    \"\\t\\t<p>\\n</p>\" +\n" +
+                        "                                    \"\t\t\n" +
+                        "\n" +
+                        "\n" +
+                        "\n" +
+                        "\n" +
+                        " ",
                 R.drawable.spot_photography
         ));
         events.add(new Event(
