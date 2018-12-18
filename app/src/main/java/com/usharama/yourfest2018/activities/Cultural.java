@@ -169,6 +169,22 @@ public class Cultural extends AppCompatActivity {
                         " ",
                 R.drawable.spot_photography
         ));
+        events.add(new Event("PUBG Battle Royale",
+                " <p style=\"margin-top: 4.5pt;\"><strong><span style=\"font-size: 14.0pt; font-family: 'Calibri','sans-serif'; color: red;\">Staff Co-ordinator</span></strong><span style=\"font-size: 14.0pt; font-family: 'Calibri','sans-serif'; color: red;\">:</span></p>\n" +
+                        "                    <p style=\"line-height: 13.6pt;\">K . Subba Rao Ph: 970546638</p>\n" +
+                        "                    <p style=\"line-height: 13.6pt;\"><span style=\"font-family: 'Calibri','sans-serif';\">&nbsp;</span></p>\n" +
+                        "                    <p style=\"line-height: 13.6pt;\"><strong><span style=\"font-size: 14.0pt; font-family: 'Calibri','sans-serif'; color: red;\">Student Co-ordinator</span></strong><span style=\"font-size: 14.0pt; font-family: 'Calibri','sans-serif'; color: red;\">:</span></p>\n" +
+                        "                    <p>K.Venkat Sai Ph: 9398591769</p>\n" +
+                        "                    <p>&nbsp;</p>\n" +
+                        "                    <p><strong><span style=\"font-size: 14.0pt; font-family: 'Calibri','sans-serif'; color: red;\">Description :</span></strong></p>\n" +
+                        "                    <p><span style=\"font-family: 'Calibri','sans-serif';\">All are welcome.</span></p>\n" +
+                        "                    <p><span style=\"font-family: 'Calibri','sans-serif';\">Joining Fee - 100 per Person</span></p>\n" +
+                        "                    <p><span style=\"font-family: 'Calibri','sans-serif';\">&nbsp;</span></p>" +
+                        "\t\t<p>\n</p>" +
+                        "\t\t<p>\n</p>" +
+                        "\t\t<p>\n</p>" +
+                        "\t\t\n\n\n\n\n  " ,
+                R.drawable.pubg));
         events.add(new Event(
                 " Dubsmash",
                 " <b class=\"text-danger\">Event Co-ordinator: Mr T Anil Kumar ,Chemistry,  Ph:9985148232 </b><br>\n" +

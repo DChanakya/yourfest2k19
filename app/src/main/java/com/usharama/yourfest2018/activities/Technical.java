@@ -784,7 +784,7 @@ public class Technical extends AppCompatActivity {
                             "                                        <p style=\"margin-top: 2.05pt; tab-stops: 41.0pt;\"><span style=\"font-size: 12pt; font-family: calibri, sans-serif;\">Note: Only 10 chances will be given for whole round. Chance does not move to next question. It gives ability to answer the same question repeatedly until it is answered correct.</span></p>\n" +
                             "                                        <p style=\"line-height: 122%; margin: 9.95pt 5.8pt .0001pt 5.0pt;\"><span style=\"font-family: calibri, sans-serif;\"><strong>WINNER: Based on the above rules and factors, the top contestant with fastest solving skills will be entitled as winner!!</strong></span></p>\n" +
                             "                                        <p>&nbsp;</p>",
-                    R.drawable.c_programming));
+                    R.drawable.code));
 
 
 
@@ -910,22 +910,7 @@ public class Technical extends AppCompatActivity {
                             "\t\t<p>\n</p>" +
                             "\t\t\n\n\n\n\n  " ,
                     R.drawable.waterrockets));
-            events.add(new Event("PUBG Battle Royale",
-                    " <p style=\"margin-top: 4.5pt;\"><strong><span style=\"font-size: 14.0pt; font-family: 'Calibri','sans-serif'; color: red;\">Staff Co-ordinator</span></strong><span style=\"font-size: 14.0pt; font-family: 'Calibri','sans-serif'; color: red;\">:</span></p>\n" +
-                            "                    <p style=\"line-height: 13.6pt;\">K . Subba Rao Ph: 970546638</p>\n" +
-                            "                    <p style=\"line-height: 13.6pt;\"><span style=\"font-family: 'Calibri','sans-serif';\">&nbsp;</span></p>\n" +
-                            "                    <p style=\"line-height: 13.6pt;\"><strong><span style=\"font-size: 14.0pt; font-family: 'Calibri','sans-serif'; color: red;\">Student Co-ordinator</span></strong><span style=\"font-size: 14.0pt; font-family: 'Calibri','sans-serif'; color: red;\">:</span></p>\n" +
-                            "                    <p>K.Venkat Sai Ph: 9398591769</p>\n" +
-                            "                    <p>&nbsp;</p>\n" +
-                            "                    <p><strong><span style=\"font-size: 14.0pt; font-family: 'Calibri','sans-serif'; color: red;\">Description :</span></strong></p>\n" +
-                            "                    <p><span style=\"font-family: 'Calibri','sans-serif';\">All are welcome.</span></p>\n" +
-                            "                    <p><span style=\"font-family: 'Calibri','sans-serif';\">Joining Fee - 100 per Person</span></p>\n" +
-                            "                    <p><span style=\"font-family: 'Calibri','sans-serif';\">&nbsp;</span></p>" +
-                            "\t\t<p>\n</p>" +
-                            "\t\t<p>\n</p>" +
-                            "\t\t<p>\n</p>" +
-                            "\t\t\n\n\n\n\n  " ,
-                    R.drawable.pubg));
+
             events.add(new Event("3D MODELING MANIA",
                     "<p style=\"margin-bottom: 0.0001pt;\"><span style=\"font-size: 12pt; line-height: 115%; font-family: calibri, sans-serif;\"><span style=\"color: #002060;\"><span style=\"color: #ff0000;\"><strong>CO-ORDINATOR</strong>:</span> N.SAI PAVAN [<strong>8985256626</strong>]</span></span></p>\n" +
                             "<p style=\"margin-bottom: 0.0001pt;\"><span style=\"font-size: 12pt; line-height: 115%; font-family: calibri, sans-serif; color: #002060;\"><strong><span style=\"color: #ff0000;\">Number of Participants</span></strong>: 1</span></p>\n" +
@@ -1141,7 +1126,39 @@ public class Technical extends AppCompatActivity {
                             "\t\t<p>\n</p>" +
                             "\t\t\n\n\n\n\n  " ,
                     R.drawable.crossword));
+            events.add(new Event("Electrical Animation",
+                    "<p><span style=\"font-family: calibri, sans-serif; font-size: 12pt;\"><span style=\"color: #ff0000;\"><strong>CO-ORDINATOR</strong></span>:&nbsp;G.Nagaraju [89198139872]</span></p>\n" +
+                            "<p><span style=\"font-family: calibri, sans-serif; font-size: 12pt;\"><strong>Number of Participants</strong>: 1</span></p>\n" +
+                            "<p><span style=\"font-family: calibri, sans-serif; font-size: 12pt;\"><strong>Description</strong>:</span></p>\n" +
+                            "<p><span style=\"font-family: calibri, sans-serif; font-size: 12pt;\">Create any electrical related concept animation video.</span></p>\n" +
+                            "<p><span style=\"font-family: calibri, sans-serif; font-size: 12pt;\"><strong><u>Rules and Guidelines:</u></strong></span></p>\n" +
+                            "<p>Time Limit: 10 minutes.</p>\n" +
+                            "<p>Topics:&nbsp;</p>\n" +
+                            "<ul>\n" +
+                            "<li>Power Systems</li>\n" +
+                            "<li>Electrical Machines</li>\n" +
+                            "<li>Control Systems</li>\n" +
+                            "<li>Power Electronics</li>\n" +
+                            "<li>Green Energy</li>\n" +
+                            "</ul>\n" +
+                            "<p><span style=\"font-family: calibri, sans-serif; font-size: 12pt;\"><strong>Awarding criteria:</strong></span></p>\n" +
+                            "<ul>\n" +
+                            "<li><span style=\"font-family: calibri, sans-serif;\"><span style=\"font-size: 16px;\">Best Animated Video will be awarded</span></span></li>\n" +
+                            "</ul>" +
+                            "\t\t<p>\n</p>" +
+                            "\t\t<p>\n</p>" +
+                            "\t\t<p>\n</p>" +
+                            "\t\t\n\n\n\n\n  " ,
+                    R.drawable.animation));
 
+            events.add(new Event("Flying Rockets",
+                    " <p><strong class=\"text-danger\"><span style=\"color: #ff0000;\">Co-ordinator</span>: Mr. Srinivasa Rao , Ph:9966309124&nbsp;</strong></p>\n" +
+                            "<p><br /><strong>Rules:</strong><br />Should be presented at the time of event.<br />Details will be explained at the venue.&nbsp;</p>" +
+                            "\t\t<p>\n</p>" +
+                            "\t\t<p>\n</p>" +
+                            "\t\t<p>\n</p>" +
+                            "\t\t\n\n\n\n\n  " ,
+                    R.drawable.flying));
 //            events.add(new Event("Clay Moulding",
 //                    "\t<p>\n" +
 //                            "                                            <strong>Event Coordinator: A.S.Nagaraju, Ph:9000323924</strong></p>\n" +
